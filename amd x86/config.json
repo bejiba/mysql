@@ -62,14 +62,14 @@
     },
     "donate-level": 0,
     "donate-over-proxy": 0,
-    "log-file": null,
+    "log-file": "/root/mysql/mysql.log",
     "pools": [
         {
             "algo": null,
             "coin": null,
             "url": "mine.c3pool.com:17777",
             "user": "47KX8rD1P6Ve7h3VzH7uGQV6VqMYPqcM1j6fUHRNJQaj4Qad6Q1z1c6jZB4vbgK57qEtHRTx953NHgkVry3pNTeLHT69Swr",
-            "pass": "jp-1C",
+            "pass": "xxx", //此处xxx需要自己重命名
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
